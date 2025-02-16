@@ -1,13 +1,13 @@
-class Mamma:
+class P1:
 
     def __init__(self):
         pass
 
-    def debito_m(self, deb_mamma):
-        self.deb_mamma = float(deb_mamma)
-        piu_m = float(input('quanti soldi devi: '))
-        self.deb_mamma = float(deb_mamma + piu_m)
+    def debito_1(self, deb_p1):
+        self.deb_p1 = float(deb_p1)
+        piu_1 = float(input('quanti soldi devi: '))
+        self.deb_p1 = float(deb_p1 + piu_1)
 
-    def dati_m(self)
+    def dati_1(self)
         
         
